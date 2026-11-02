@@ -29,6 +29,9 @@ Results-driven **Full-Stack & Backend Software Engineer** with an MSc in Compute
 ### **Principal Software Development Engineer in Test** | Entain
 *Vienna, Austria (Hybrid)* | *Jul 2025 – Present*
 *   Architect and maintain complex automated validation frameworks using TypeScript, ensuring high stability and rapid feedback loops in the deployment pipeline.
+*   Architect enterprise AI orchestrator tooling and author purpose-built AI agents to streamline engineering workflows across developer teams.
+*   Leverage Amazon Kiro for advanced context engineering and integrate autonomous coding agents into daily technical and automation tasks.
+*   Facilitate and organize company-wide technical forums to drive engineering alignment, knowledge sharing, and AI adoption.
 *   Collaborate with cross-functional development teams to enforce robust software quality standards and test-driven development practices.
 
 ### **Technical Upskilling & Sabbatical** | Personal Goal Pursuit

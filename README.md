@@ -8,11 +8,11 @@
 Results-driven **Full-Stack & Backend Software Engineer** with an MSc in Computer Science and over 15 years of experience building high-quality software architectures, robust automation frameworks, and modern web applications. Deeply experienced in TypeScript/JavaScript (Node.js, React, Next.js) and Java. Adept at integrating AI workflows (Agents, MCPs, custom steering files) and establishing flawless deployment and CI/CD pipelines. A strong proponent of Test-Driven Development (TDD) who bridges the gap between high-velocity development and bulletproof code quality.
 
 ## Core Technical Skills
-*   **Languages & Frameworks:** TypeScript, JavaScript, Node.js, Next.js, React, Java, Python
-*   **AI & Agents:** Custom AI Agents, Model Context Protocols (MCPs), Steering & Skill Files, Conversational Bots
+*   **Languages & Frameworks:** TypeScript, JavaScript, Node.js, Next.js, NestJS, React, Java, Python, Spring
+*   **AI & Agents:** Custom AI Agents, Model Context Protocols (MCPs), Steering & Skill Files, Conversational Bots, Multi-agent workflow, RAG
 *   **Cloud & Databases:** AWS (S3, API Gateway, EC2), PostgreSQL, SQL, OAuth, REST APIs
-*   **Testing & CI/CD:** Test-Driven Development (TDD), Playwright, JUnit5, TestNG, Jest, CI/CD Pipelines
-*   **Methodologies:** Agile/Scrum (Certified Scrum Master), System Architecture, Tech Leadership
+*   **Testing & CI/CD:** Test-Driven Development (TDD), Playwright, JUnit5, TestNG, Jest, CI/CD Pipelines, Selenium
+*   **Methodologies:** Agile/Scrum (Certified Scrum Master), System Architecture, Tech Leadership, Test Management
 
 ---
 
@@ -20,7 +20,8 @@ Results-driven **Full-Stack & Backend Software Engineer** with an MSc in Compute
 *   **UnMute AI (TypeScript, Next.js, Google Gemini, shadcn):** Built an interactive, AI-driven pronunciation training web application utilizing modern audio synthesis and analysis tools.
 *   **Smart Time Input (TypeScript, React):** Created and published `@osvalda/smart-time-input`, a specialized, open-source 24h time input component for React applications.
 *   **Sear Bliss Official Webpage (TypeScript, Next.js, NeonDB, AWS S3, Chakra):** Engineered a high-performance band website featuring a custom-built administration portal, secure OAuth authentication, and AWS-backed asset storage.
-*   **Pitaya (Java):** Authored an open-source API test coverage reporter for TestNG and JUnit5, distributed via the Maven Central Repository.
+*   **Pitaya (Java):** Authored nd published open-source API test coverage reporter for TestNG and JUnit5, distributed via the Maven Central Repository.
+*   **Anlage.pro (TypeScript, Next.js, PostgreSQL, React, shadcn):** A travel cost collector and calculator app that helps to manage travel expenses efficiently.
 
 ---
 

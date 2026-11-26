@@ -1,6 +1,6 @@
 # Ákos Osvald
 **Vienna, Austria** | +36 30 505 7803 | [akos.oswald@gmail.com](mailto:akos.oswald@gmail.com) | 
-[GitHub](https://github.com/osvalda/) | [LinkedIn](https://www.linkedin.com/in/akososvald/) | [Medium](https://akos-osvald.medium.com/) | [Credly](https://www.credly.com/users/akos-osvald/)
+[GitHub](https://github.com/osvalda/) | [LinkedIn](https://www.linkedin.com/in/akososvald/) | [Medium](https://akos-osvald.medium.com/) | [Credly](https://www.credly.com/users/akos-osvald/) | [OpenAi Academy](https://oaiacademy.credential.net/profile/kososvald987963/wallet)
 
 ---
 
